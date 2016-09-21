@@ -1,5 +1,5 @@
 {
-  "$schema": "https://github.com/NguyenLm/AzureTest_EFM13.0/tree/Artifacts/Artifactfile.json",
+  "$schema": "https://github.com/NguyenLm/Mirth/Files/Artifactfile.json",
   "title": "Mirth",
   "description": "Installs Mirth",
   "iconUri": "https://contractiq.com/uploads/work/image/5887/mirth.png",
