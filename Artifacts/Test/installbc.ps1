@@ -13,7 +13,7 @@ catch
  
 try
 {
-    Start-Process -FilePath $bcSetup -ArgumentList "/VERYSILENT /LOADINF=$infPath"
+    Start-Process -FilePath $bcSetup -ArgumentList "/VERYSILENT"
 }
 catch
 {
