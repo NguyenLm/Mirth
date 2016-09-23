@@ -2,7 +2,7 @@
 
 "$schema": "https://github.com/NguyenLm/Mirth/edit/master/Artifacts/Designer/Artifactfile.json",
   "title": "Formatta Designer",
-  "description": "Installs Mirth",
+  "description": "Installs Formatta Designer",
   "iconUri": "http://ww1.prweb.com/prfiles/2012/06/18/12295274/Formatta---logo-no-tag.jpg",
   "targetOsType": "Windows",
     "parameters": {
